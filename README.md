@@ -6,3 +6,4 @@ An exercise about maps, biometric authentication, and the usual.
 - Alert can either have dismiss button only, or primary and secondary button
 - Using encode and decode to write and load json file from the disk
 - MapView, definitely
+- LocalAuthentication biometrics and passcode
